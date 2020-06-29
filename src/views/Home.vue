@@ -4,9 +4,7 @@
 
 <script>
 export default {
-  created() {
-    console.log(process.env.NODE_ENV);
-  },
+  created() {},
 };
 </script>
 <style scoped lang='sass'>
